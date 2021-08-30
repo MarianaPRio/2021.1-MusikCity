@@ -3,7 +3,7 @@ repo_url: https://github.com/Interacao-Humano-Computador/2021.1-MusikCity
 repo_name: ""
 
 theme:
-  name: material
+  name: mkdocs
   language: "pt"
   logo: ""
   favicon: ""
@@ -18,3 +18,4 @@ nav:
   - Planejamento: planejamento.md
   - Apresentação:
     - Apresentação 1: apresentacao1.md
+    - Apresentação 2: apresentacao2.md

@@ -18,9 +18,9 @@ feitas pela equipe.
 
 ## Equipe
 
-Integrante      |Matrícula |GitHub
---------------  |----------|------
-Artur de Sousa  |19/0010606|art-42
-Eduarda Tavares |17/0140717|erteduarda
-Mariana Rio     |19/0058455|MarianaPRio
-Pedro Hinrique  |19/0036435|Peh099
+Integrante      |GitHub
+--------------  |------
+Artur de Sousa  |art-42
+Eduarda Tavares |erteduarda
+Mariana Rio     |MarianaPRio
+Pedro Hinrique  |Peh099
