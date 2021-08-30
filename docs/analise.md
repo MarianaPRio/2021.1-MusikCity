@@ -17,6 +17,19 @@ A Análise Hierárquica de Tarefas é um método que foi desenvolvido para enten
 Uma tarefa é alguma parte do trabalho que precisa ser desenvolvida e realizada, sempre podendo ser definida em termos dos seus objetivos. Como dito anteriormente, as análises de tarefas normalmente é coletar um conjunto de objetivos, antes de se considerar as ações através das quais as ações podem ser realizas. Segundo o livro ...: “ Objetivo é um estado específico de coisas, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo e, em última instância, do desempenho do sistema”.
 
 A Analise Hierárquica de tarefas analisa primordialmente os objetivos, decompondo-os em subobjetivos, buscando identificar quais desses são mais difíceis de atingir. No nível mais baixo da hierarquia de objetivos, cada subobjetivo é definido por uma operação, que é a unidade fundamental da Analise Hierárquica de tarefas. Abaixo é demostrado os elementos de um diagrama HTA.
+![](img/elementos.png)
+  
 *Figura 1 -  Elementos diagrama HTA, BARBOSA, Simone et al. "Interação Humano-Computador". 2010. p. 193.*
+
+Abaixo é apresentado um diagrama HTA feito a partir do objetivo de “Marcar uma auto divulgação de artista” no site MusikCity.
+  
+![](img/Diagrama 1.png)
+
+Com base nesse diagrama HTA é possível ilustrar essa representação em forma de tabela. Dentro da tabela são especificados itens como: ação, plano, input e o feedback. Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados. Uma ação pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final. Além disso, podem ser apresentados problemas encontrados e recomendações.
+  
+![](img/Tabela1.png)
+  
+Abaixo são mostradas outras análises de tarefas realizadas no site MusikCity com suas respectivas tabelas.
   
 </p>
+
