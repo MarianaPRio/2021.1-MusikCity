@@ -16,5 +16,7 @@ extra_css:
 nav:
   - Inicio: index.md
   - Planejamento: planejamento.md
+  - Análise de Requisitos:
+    -Perfil de usuario: perfil.md
   - Apresentação:
     - Apresentação 1: apresentacao1.md
