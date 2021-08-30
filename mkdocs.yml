@@ -18,5 +18,7 @@ nav:
   - Planejamento: planejamento.md
   - Análise de Requisitos:
     - Perfil de usuario: perfil.md
+    - Analise de Tarefas: analise.md
+    - Personas: personas.md
   - Apresentação:
     - Apresentação 1: apresentacao1.md
