@@ -3,7 +3,7 @@ repo_url: https://github.com/Interacao-Humano-Computador/2021.1-MusikCity
 repo_name: ""
 
 theme:
-  name: mkdocs
+  name: material
   language: "pt"
   logo: ""
   favicon: ""
