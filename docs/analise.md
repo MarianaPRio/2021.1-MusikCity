@@ -75,3 +75,10 @@ Abaixo são mostradas outras análises de tarefas realizadas no site MusikCity c
 ![](img/Tabela4.png)
 
 *Figura 9 -  Tabela do diagrama HTA para "Marcar Gravação de arranjo", site MusikCity*
+
+
+<p style="text-indent: 20px; text-align: justify">
+Ao final do processo foi possível percerber muitos problemas em comum em vários desses objetivos, tendo assim um norte do trabalho que o usuário poderá ter para a realiazação
+dos seus objetivos.
+</p>  
+
