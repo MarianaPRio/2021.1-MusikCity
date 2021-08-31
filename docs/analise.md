@@ -38,12 +38,47 @@ Abaixo é apresentado um diagrama HTA feito a partir do objetivo de “Marcar um
 
 ![](img/Diagrama1.png)
 
+*Figura 2 -  Diagrama HTA para "marcar uma divulgação de artista", site MusikCity.*
+
 <p style="text-indent: 20px; text-align: justify">
 Com base nesse diagrama HTA é possível ilustrar essa representação em forma de tabela. Dentro da tabela são especificados itens como: ação, plano, input e o feedback. Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados. Uma ação pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final. Além disso, podem ser apresentados problemas encontrados e recomendações.
 </p>  
+
 ![](img/Tabela1.png)
+
+*Figura 3 -  Tabela do diagrama HTA para "marcar uma divulgação de artista", site MusikCity.*
 
 <p style="text-indent: 20px; text-align: justify">
 Abaixo são mostradas outras análises de tarefas realizadas no site MusikCity com suas respectivas tabelas.
+</p>
+
+![](img/Diagrama2.png)
+
+*Figura 4 -  Diagrama HTA para "Divulgar música", site MusikCity.*
+
+![](img/Tabela2.png)
+
+*Figura 5 -  Tabela do diagrama HTA para "Divulgar música", site MusikCity.*
+
+![](img/Diagrama3.png)
+
+*Figura 6 -  Diagrama HTA para "Marcar parceria como letrista", site MusikCity.*
+
+![](img/Tabela3.png)
+
+*Figura 7 -  Tabela do diagrama para "Marcar parceria como letrista", site MusikCity.*
+
+![](img/Diagrama4.png)
+
+*Figura 8 -  Diagrama HTA para "Marcar Gravação de arranjo", site MusikCity.*
+
+![](img/Tabela4.png)
+
+*Figura 9 -  Tabela do diagrama HTA para "Marcar Gravação de arranjo", site MusikCity*
+
+
+<p style="text-indent: 20px; text-align: justify">
+Ao final do processo foi possível percerber muitos problemas em comum em vários desses objetivos, tendo assim um norte do trabalho que o usuário poderá ter para a realiazação
+dos seus objetivos.
 </p>  
 
