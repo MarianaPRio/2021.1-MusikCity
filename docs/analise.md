@@ -82,3 +82,8 @@ Ao final do processo foi possível percerber muitos problemas em comum em vário
 dos seus objetivos.
 </p>  
 
+## 7. Versionamento
+Versão|Data      |Modificação        |Autor
+------|----------|-------------------|--------
+1.0   |29/08/2021|Criação da wiki    | Eduarda Tavares
+1.1   |30/08/2021|Adição do conteúdo | Pedro Henrique
