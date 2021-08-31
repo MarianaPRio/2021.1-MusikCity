@@ -18,9 +18,9 @@ feitas pela equipe.
 
 ## Equipe
 
-Foto |Integrante      |GitHub
------|--------------  |------
-![](img/Artur.png)|Artur de Sousa  |art-42
-![](img/Duda.png)|Eduarda Tavares |erteduarda
-![](img/Mari.png)|Mariana Rio     |MarianaPRio
-![](img/pedro.png)|Pedro Hinrique  |Peh099
+Foto                                 |Integrante      |GitHub
+-------------------------------------|--------------  |------
+<img src="img/Artur.png" width="20%">|Artur de Sousa  |art-42
+<img src="img/Duda.png" width="20%"> |Eduarda Tavares |erteduarda
+<img src="img/Mari.png" width="20%"> |Mariana Rio     |MarianaPRio
+<img src="img/pedro.png" width="20%">|Pedro Hinrique  |Peh099
