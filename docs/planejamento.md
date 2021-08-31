@@ -33,7 +33,9 @@ Relato dos resultados do Storyboard, Análise de tarefas e o Planejamento da Ava
 
 ## 4. Processo de Design
 
+<p style="text-indent: 20px; text-align: justify">
 Nosso processo de design detalha as atividades básicas do design, através de uma análise da situação atual, da síntese de uma intervenção e da avaliação dessa intervenção projetada (Barbosa e Silva, 2010).
+</p>
 
 ![](img/processodesign.jpg)
 
@@ -56,7 +58,10 @@ Ferramenta      |Nome |Descrição
 ![](img/apresentacoes.jpg)|Google Slides |Ferramenta utilizada para fazer os slides de apresentação do projeto na disciplina.
 
 ## 6. Bibliografia 
+
+<p style="text-indent: 20px; text-align: justify">
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux)
+</p>
 
 ## 7. Versionamento
 Versão|Data      |Modificação        |Autor
