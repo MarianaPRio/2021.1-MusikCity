@@ -33,28 +33,28 @@ Diante das metas de usabilidade apresentadas, algumas foram determinadas para se
 Eficácia:  O produto permite que as pessoas aprendam, realizem seu trabalho de forma eficiente, acessem a informação de que necessitam ou comprem os produtos que desejam?
 </p>
 
--O sistema deverá permitir que o usuário acesse todas as principais funcionalidades com acurácia e completude abrangente, de maneira que consiga alcançar objetivos específicos com a maior facilidade possível. Esses objetivos seriam, por exemplo: acessar a funcionalidade de rádios ao vivo e Tvs ao vivo, parada de sucesso, marcar afinação, masterização, registro musical, arranjos ou divulgação de cantores.
+- O sistema deverá permitir que o usuário acesse todas as principais funcionalidades com acurácia e completude abrangente, de maneira que consiga alcançar objetivos específicos com a maior facilidade possível. Esses objetivos seriam, por exemplo: acessar a funcionalidade de rádios ao vivo e Tvs ao vivo, parada de sucesso, marcar afinação, masterização, registro musical, arranjos ou divulgação de cantores.
 
 <p style="text-indent: 20px; text-align: justify">
 Eficiência: Os usuários conseguirão manter um alto nível de produtividade, uma vez que tenham aprendido como utilizar um produto para realizar suas tarefas?
 </p>
 
--De maneira geral, o sistema deve auxiliar os usuários a realizar as tarefas necessárias para a concretização dos seus objetivos com telas informativas sobre as funcionalidades presentes, com isso o produto deve permitir que o usuário alcance seus objetivos da maneira mais rápida possível.
+- De maneira geral, o sistema deve auxiliar os usuários a realizar as tarefas necessárias para a concretização dos seus objetivos com telas informativas sobre as funcionalidades presentes, com isso o produto deve permitir que o usuário alcance seus objetivos da maneira mais rápida possível.
 
 <p style="text-indent: 20px; text-align: justify">
 Segurança: Qual é a gama de erros possíveis ao se utilizar o produto e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente?
 </p>
 
--O produto deverá exibir telas de confirmação para o envio de formulários, assim como telas para indicar o não funcionamento de alguma rádio/canal de televisão que não esteja funcionando.
+- O produto deverá exibir telas de confirmação para o envio de formulários, assim como telas para indicar o não funcionamento de alguma rádio/canal de televisão que não esteja funcionando.
 
 <p style="text-indent: 20px; text-align: justify">
 Utilidade: O produto fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam?
 </p>
 
--O produto deverá oferecer todas as condições necessárias para para realização dos objetivos, com isso deverão ser moldadas as telas de envio de formulário para que não seja tão confuso o seu preenchimento e dando as devidas condições.
+- O produto deverá oferecer todas as condições necessárias para para realização dos objetivos, com isso deverão ser moldadas as telas de envio de formulário para que não seja tão confuso o seu preenchimento e dando as devidas condições.
 
 <p style="text-indent: 20px; text-align: justify">
 Aprendizado e memorização: O usuário saberá como usar o produto explorando a interface e experimentando determinadas ações? Será difícil aprender todo o conjunto de funções dessa maneira?
 </p>
 
--O produto deverá trazer telas informativas sobre onde encontrar as principais funcionalidades, assim como o que poderá encontrar.
+- O produto deverá trazer telas informativas sobre onde encontrar as principais funcionalidades, assim como o que poderá encontrar.
