@@ -25,3 +25,8 @@ nav:
   - Apresentação:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
+    - Apresentação 3: apresentacao3.md
+    - Apresentação 4: apresentacao4.md
+
+plugins:
+  - mkdocs-video
