@@ -11,7 +11,7 @@ Dentro da Interação Humano Computador, a análise de tarefas pode ser utilizad
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Para a análise de tarefas do nosso projeto será utilizado o método de Análise Hierárquica de tarefas que será apresentado logo abaixo.
+Para a análise de tarefas do nosso projeto será utilizado o método de Análise Hierárquica de tarefas para os objetivos relacionados ao preenchimento de formulários e o metodo CMN-GOMS para os outros objetivos.
 </p>
 
 ## 2. Analise Hierárquica de tarefas
@@ -82,8 +82,69 @@ Ao final do processo foi possível percerber muitos problemas em comum em vário
 dos seus objetivos.
 </p>  
 
-## 7. Versionamento
+## 2. GOMS
+
+<p style="text-indent: 20px; text-align: justify">
+GOMS é um conjunto de modelos utilizado para analisar o desempenho de usuários competentes de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros. Muitos sistemas são projetados considerando que as pessoas se tornam habilidosas no seu uso e, portanto, vão querer formas eficientes de realizar tarefas rotineiras. Os modelos GOMS têm se mostrado úteis para prever o desempenho, ou seja, predizer o impacto de decisões de design no desempenho competente.
+</p> 
+
+<p style="text-indent: 20px; text-align: justify">
+O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods) e regras de seleção (selection rules). Os objetivos representam o que o usuário quer realizar utilizando o software (e.g., editar um texto). Os operadores são primitivas internas (cognitivas) ou externas (as ações concretas que o software permite que os usuários façam). Os métodos são sequências bem conhecidas de sub objetivos e operadores que permitem atingir um objetivo maior. Quando há mais do que um método para atingir um mesmo objetivo, são necessárias regras de seleção, que representam tomadas de decisão dos usuários sobre qual método utilizar numa determinada situação. 
+</p> 
+
+### Realização do método
+
+<p style="text-indent: 20px; text-align: justify">
+O método foi utilizado para os objetivos do usuário que diferem dos objetivos relacionados a preenchimento de formulários. Será utilizado o CMN-GOMS com um modelo sem detalhes, que tem a primitiva a proposta original do GOMS. O resultado obtido será apresentado abaixo.
+</p>
+
+- GOAL 0: Ouvir uma rádio ao-vivo.
+	- GOAL 1: Entrar na aba correspondente.
+		- METHOD 1.A: Navegar procurando no menu inicial a aba de rádios-  ao-vivo.
+		- METHOD 1.B: Clicar sobre a respectiva aba.
+	- GOAL 2: Encontrar a sua rádio de preferência para ouvir.
+		- METHOD 2.A: Selecionar a rádio que deseja ouvir.
+			- (SEL. RULE: O usuário está à procura de uma rádio específica e já sabe onde encontra-la).
+		- METHOD 2.B: Navegar entre as seções de rádio pré-definidas, procurando uma rádio.
+			- (SEL. RULE: O usuário está à procura de uma rádio para escutar, no entanto não tem uma opção previa).
+	- GOAL 3: Ouvir a rádio selecionada.
+		- METHOD 3: Clicar sobre o player da rádio que é aberto em uma nova aba.
+
+- GOAL 0: Assistir um canal de Televisão ao-vivo.
+	- GOAL 1: Entrar na aba correspondente.
+		- METHOD 1.A: Navegar procurando no menu inicial a aba de TVs-  ao-vivo.
+			- (SEL. RULE: No menu da página home serão apresentadas algumas das funcionalidades do site, uma delas é a de parada TV ao-vivo).
+		- METHOD 1.B: Clicar sobre a respectiva aba.
+	- GOAL 2: Encontrar o canal de Televisão que deseja assistir.
+		- METHOD 2.A: Selecionar o canal que deseja assistir.)
+			- (SEL. RULE: O usuário está à procura de um canal específico e já sabe onde encontra-lo).
+		- METHOD 2.B: Navegar entre a lisa de canais de Televisão ao-vivo até encontrar um canal que seja agradável.
+			- (SEL. RULE: O usuário está à procura de um canal de Televisão para assistir, no entanto não tem uma opção previa).
+		- METHOD 2.C: Clicar sobre a opção escolhida.
+	- GOAL 3: Assistir o canal selecionado.
+		- METHOD 3.A: Clicar no respectivo link que redirecionará para a página do canal.
+			- (SEL. RULE: Será apresentado ao usuário a descrição sobre o respectivo canal, além do link para poder assistir. O usuário deverá clicar nesse link).
+		- METHOD 3.B: Clicar para executar o player na página que é aberta.
+
+ 
+- GOAL 0: Ver a lista de top 50 músicas 
+	- GOAL 1: Entrar na aba correspondente
+		- METHOD 1.A: Navegar procurando no menu inicial a aba de parada TOP 50.
+			- (SEL. RULE: No menu da página home serão apresentadas algumas das funcionalidades do site, uma delas é a de parada TOP 50).
+		- METHOD 1.B: Clicar sobre a respectiva aba.
+	- GOAL 2: Visualizar a lista de parada de sucessos top 50 musikcity.
+		- METHOD 2: Navegar pela página, rolando o scroll, para acompanhar a lista.
+	- GOAL 3: Escutar a música/assistir o vídeo clipe.
+		- METHOD 3.A: Percorrer o site para selecionar a música desejada.
+			- (SEL. RULE: O usuário percorreu a lista de top 50 e encontrou uma música que deseja ouvir).
+		- METHOD 3.B: Clicar em uma música que foi do seu agrado.
+			- (SEL. RULE: O usuário não necessariamente percorreu a lista, mas encontrou uma musica do seu agrado, deve então clicar na aba vídeo).
+		- METHOD 3.C: Clicar no player para iniciar a musica que irá abrir na próxima página.
+			- (SEL. RULE: Será apresentado ao usuário o vídeo clipe da respectiva música em uma página separada).
+
+## 4. Versionamento
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |29/08/2021|Criação da pagina  | Pedro Henrique
 1.1   |30/08/2021|Adição do conteúdo | Pedro Henrique
+1.2   |07/09/2021|Atualização com metodo GOMS| Pedro Henrique

@@ -16,12 +16,15 @@ extra_css:
 nav:
   - Inicio: index.md
   - Planejamento: planejamento.md
-  - Análise de Requisitos:
+  - Perfil de usuario:
     - Perfil de usuario: perfil.md
-    - Analise de Tarefas: analise.md
     - Personas: personas.md
+  - Análise de Requisitos:
+    - Analise de Tarefas: analise.md
     - Metas de Usabilidade: usabilidade.md
     - Principios Gerais do Projeto: principios.md
+  - Analise de Tarefas:
+  - Storyboard:
   - Apresentação:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
