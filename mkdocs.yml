@@ -1,0 +1,30 @@
+site_name: MusikCity
+repo_url: https://github.com/Interacao-Humano-Computador/2021.1-MusikCity
+repo_name: ""
+
+theme:
+  name: material
+  language: "pt"
+  logo: ""
+  favicon: ""
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Inicio: index.md
+  - Planejamento: planejamento.md
+  - Perfil de usuario:
+    - Perfil de usuario: perfil.md
+    - Personas: personas.md
+  - Análise de Requisitos:
+    - Analise de Tarefas: analise.md
+    - Metas de Usabilidade: usabilidade.md
+    - Principios Gerais do Projeto: principios.md
+  - Analise de Tarefas:
+  - Storyboard:
+  - Apresentação:
+    - Apresentação 1: apresentacao1.md
+    - Apresentação 2: apresentacao2.md
