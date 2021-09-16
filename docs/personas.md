@@ -65,4 +65,4 @@ Versão|Data      |Modificação          |Autor
 1.0   |29/08/2021|Criação da wiki      | Eduarda Tavares
 1.1   |30/08/2021|Criação do conteúdo  | Artur de Sousa
 1.2   |30/08/2021|Adição do conteúdo   | Mariana Rio
-1.3   |06/09/2021|Atualização da página| Mariana Rio
+1.3   |06/09/2021|Atualização da página| Artur de Sousa
