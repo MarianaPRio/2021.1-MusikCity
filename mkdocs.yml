@@ -27,6 +27,8 @@ nav:
   - Storyboard:
     - Storyboard: storyboard.md
     - Planejamento Avaliação: planejamentoSt.md
+  - Protótipo de Papel:
+    - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
   - Apresentação:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
