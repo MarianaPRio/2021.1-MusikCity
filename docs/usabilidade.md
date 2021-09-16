@@ -58,3 +58,15 @@ Aprendizado e memorização: O usuário saberá como usar o produto explorando a
 </p>
 
 - O produto deverá trazer telas informativas sobre onde encontrar as principais funcionalidades, assim como o que poderá encontrar.
+
+## 4. Bibliografia
+
+> - BARBOSA, Simone et al. "Interação Humano-Computador" 2010.
+> - Preece, J.; Rogers, Y.; Sharp, H.; (2002) Interaction Design, Beyond Human-Computer Interaction. John Wiley & Sons, Inc.
+
+## 5. Versionamento
+Versão|Data      |Modificação        |Autor
+------|----------|-------------------|---------------
+1.0   |05/09/2021|Criação da pagina  | Pedro Henrique
+1.1   |05/09/2021|Adição do conteúdo | Pedro Henrique
+1.2   |14/09/2021|Adição do versionamento e bibliografia| Pedro Henrique

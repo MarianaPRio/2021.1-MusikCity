@@ -21,10 +21,12 @@ nav:
     - Personas: personas.md
   - Análise de Requisitos:
     - Analise de Tarefas: analise.md
+    - Guia de Estilo: guiaDeEstilo.md 
     - Metas de Usabilidade: usabilidade.md
     - Principios Gerais do Projeto: principios.md
-  #- Analise de Tarefas:
-  #- Storyboard:
+  - Storyboard:
+    - Storyboard: storyboard.md
+    - Planejamento Avaliação: planejamentoSt.md
   - Apresentação:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
