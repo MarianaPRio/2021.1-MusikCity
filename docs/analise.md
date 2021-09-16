@@ -21,7 +21,7 @@ A Análise Hierárquica de Tarefas é um método que foi desenvolvido para enten
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Uma tarefa é alguma parte do trabalho que precisa ser desenvolvida e realizada, sempre podendo ser definida em termos dos seus objetivos. Como dito anteriormente, as análises de tarefas normalmente é coletar um conjunto de objetivos, antes de se considerar as ações através das quais as ações podem ser realizas. Segundo o livro ...: “ Objetivo é um estado específico de coisas, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo e, em última instância, do desempenho do sistema”.
+Uma tarefa é alguma parte do trabalho que precisa ser desenvolvida e realizada, sempre podendo ser definida em termos dos seus objetivos. Como dito anteriormente, as análises de tarefas normalmente é coletar um conjunto de objetivos, antes de se considerar as ações através das quais as ações podem ser realizas. Segundo o livro Interação Humano Computador(Barbosa e Silva, 2010): “ Objetivo é um estado específico de coisas, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo e, em última instância, do desempenho do sistema”.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -141,8 +141,10 @@ O método foi utilizado para os objetivos do usuário que diferem dos objetivos 
 			- (SEL. RULE: O usuário não necessariamente percorreu a lista, mas encontrou uma musica do seu agrado, deve então clicar na aba vídeo).
 		- METHOD 3.C: Clicar no player para iniciar a musica que irá abrir na próxima página.
 			- (SEL. RULE: Será apresentado ao usuário o vídeo clipe da respectiva música em uma página separada).
+## 4. Bibliografia
+> - BARBOSA, Simone et al. "Interação Humano-Computador". 2010.
 
-## 4. Versionamento
+## 5. Versionamento
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |29/08/2021|Criação da pagina  | Pedro Henrique
