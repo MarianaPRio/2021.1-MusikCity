@@ -23,8 +23,8 @@ nav:
     - Analise de Tarefas: analise.md
     - Metas de Usabilidade: usabilidade.md
     - Principios Gerais do Projeto: principios.md
-  - Analise de Tarefas:
-  - Storyboard:
+  #- Analise de Tarefas:
+  #- Storyboard:
   - Apresentação:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
