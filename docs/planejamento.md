@@ -68,9 +68,8 @@ Ferramenta      |Nome |Descrição
 
 ## 6. Bibliografia 
 
-<p style="text-indent: 20px; text-align: justify">
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux)
-</p>
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
 
 ## 7. Versionamento
 Versão|Data      |Modificação        |Autor

@@ -61,8 +61,8 @@ Aprendizado e memorização: O usuário saberá como usar o produto explorando a
 
 ## 4. Bibliografia
 
-> - BARBOSA, Simone et al. "Interação Humano-Computador" 2010.
-> - Preece, J.; Rogers, Y.; Sharp, H.; (2002) Interaction Design, Beyond Human-Computer Interaction. John Wiley & Sons, Inc.
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.<br>
+> Preece, J.; Rogers, Y.; Sharp, H.; (2002) Interaction Design, Beyond Human-Computer Interaction. John Wiley & Sons, Inc.
 
 ## 5. Versionamento
 Versão|Data      |Modificação        |Autor

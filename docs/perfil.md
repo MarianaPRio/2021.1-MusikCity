@@ -7,7 +7,11 @@ Sendo assim, para o site “Musikcity”, que é voltada para artistas do ramo m
 <br><br>
 Além disso, o site (pelo fato de ter um escopo muito grande e variado) também tem outro perfil de usuário de usuário, que é definido por qualquer pessoa, independente de sexo ou idade, com educação básica e conhecimento razoável em computadores, que conhecem musica pelo meio de mídia e rádio, sem necessariamente ter conhecimento teórico musica. Com isso, eles utilizarão o site para ver as paradas de sucesso do Brasil e dos Estados Unidos, e também escutar rádios do brasil inteiro, sendo uma tarefa que pode ser feita sem número limitado de vezes nem um tempo determinado, com o objetivo de adquirir conhecimento da mídia mainstream ou apenas escutar música.</p>
 
-## 7. Versionamento
+## Bibliografia
+
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+## Versionamento
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|--------
 1.0   |29/08/2021|Criação da pagina  | Eduarda Tavares

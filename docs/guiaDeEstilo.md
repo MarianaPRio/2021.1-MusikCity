@@ -49,8 +49,9 @@ Figura 3 - Cores
 Figura 4 - Ícones
 </p>
 
-# Bibliografia
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux)
+## 6. Bibliografia 
+
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
 Versão|Data      |Modificação        |Autor

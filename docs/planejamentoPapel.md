@@ -73,7 +73,7 @@ Relato dos resultados            |<li> Gerar um relatório com os problemas enco
  - Problemas de usabilidade corrigidos (descrevendo onde se estava o problema, quando ele foi encontrado, fatores de usabilidade que foram prejudicados, descrição do problema e correção feita).
  - Problemas de usabilidade não corrigidos (descrevendo onde se estava o problema, quando ele foi encontrado, fatores de usabilidade que foram prejudicados, descrição do problema, motivo para não correção, prioridade de correção e sugestão de como corrigí-lo.
 
-## Referências bibliográficas
+## Bibliografia
 
  >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
