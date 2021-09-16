@@ -6,7 +6,7 @@
 Storyboard é um tipo de protótipação de baixa fidelidade, que consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo estudado. Pode-se tratar de uma série de telas esboçadas, ou de uma série de cenas desenhadas mostrando como um usuário pode desempenhar determinada tarefa utilizando um produto. (ROGERS, et al.) 
 </p>
 
-## Storyboard: 
+## Storyboard
 <p style="text-align: justify">
 Nos Storyboards seguimos o caminho das nossas 3 personas, partindo do seu objetivo em no site MusikCity. 
 </p>
