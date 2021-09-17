@@ -62,6 +62,29 @@ Relato dos resultados            |<li> Gerar um relatório com os problemas enco
 
 ## 5. Coleta de dados & Interpretação
 
+<p style="text-align: justify">Já nesta atividade, será coletado os dados da experiência do usuário, assim, cada usuário escolhido executará as tarefas propostas anteriormente interagindo com o protótipo de papel, sendo guiado pelo avaliador. O papel do avaliador será tanto guiar o usuário no comportamento do sistema quanto anotar as observações necessárias no decorrer da interação.</p>
+
+<p style="text-align: justify"> Inicialmente, iremos definir qual a familiaridade do voluntário com o site.</p>
+
+Número | Pergunta  | <div style="width:125px">resposta</div>
+:-------:|-----------|:---------
+1      |<p style="text-align: justify"> Em uma escala de 1 a 5, quanto você daria para a sua familiaridade com o site  Musikcity, sendo "1" igual a extremamente desabituado e "5" extremamente familiarizado?</p> | 1. Muito desabituado <br>2. Desabituado <br>3. Neutro <br>4. Familiarizado <br>5. Muito familiarizado
+
+<p style="text-align: center;"><i>Tabela 2: Pergunta inicial a ser feita ao voluntário.</i></p>
+
+<p style="text-align: justify"> Em seguida, serão feitas as seguintes perguntas, em momentos oportunos, com o objetivo de verificar se o usuário conseguiu usufruir bem do sistema.</p>
+
+Número | Pergunta  | <div style="width:100px">resposta</div>
+:-------:|-----------|:---------
+2      |<p style="text-align: justify">Você conseguiu efetuar todas as tarefas propostas? </p>| - SIM <br>- NÃO<br> - INCONCLUSIVO
+3      |<p style="text-align: justify">	Em uma escala de 1 a 5, quanto você daria para a dificuldade na execução das tarefas, sendo que "1" significa muito difícil e "5", muito fácil?</p>| 1. Muito difícil <br>2. Difícil <br>3. Neutro <br>4. Fácil <br>5. Muito fácil
+4      |<p style="text-align: justify">	Você cometeu algum erro ou ficou confuso em algum momento da realização das tarefas?</p>| - SIM <br>- NÃO<br> - INCONCLUSIVO
+5      |<p style="text-align: justify">	O que pensou, em geral, do processo de realização das tarefas? Ofereça suas observações e comentários adicionais.</p>|Pergunta discursiva
+
+<p style="text-align: center;"><i>Tabela 3: Pergunta restantes a serem feitas ao voluntário.</i></p>
+
+<p style="text-align: justify">Além das perguntas descritas acima, o avaliador anotará quaisquer observações oportunas para a atividade, para que itens que possam ter ficado de fora das perguntas ainda sejam levados em consideração para a avaliação do protótipo.</p>
+
 ## 6. Consolidação dos resultados
 
 <p style="text-align: justify">Nessa atividade, há um objetivo claro: analisando as informações coletadas nas avaliações, será analisar os problemas encontrados no protótipo, Assim, conseguiremos melhorar o que já foi feito. Assim definiremos qual a severidade dos erros, fazendo uma priorização deles, assim, o grupo conjuntamente, irá propor soluções para os problemas identificados. </p>
@@ -73,7 +96,7 @@ Relato dos resultados            |<li> Gerar um relatório com os problemas enco
  - Problemas de usabilidade corrigidos (descrevendo onde se estava o problema, quando ele foi encontrado, fatores de usabilidade que foram prejudicados, descrição do problema e correção feita).
  - Problemas de usabilidade não corrigidos (descrevendo onde se estava o problema, quando ele foi encontrado, fatores de usabilidade que foram prejudicados, descrição do problema, motivo para não correção, prioridade de correção e sugestão de como corrigí-lo.
 
-## Referências bibliográficas
+## Bibliografia
 
  >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 

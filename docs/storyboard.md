@@ -36,9 +36,8 @@ Figura 3 - Storyboard persona Juliana Vieira
 </p>
 
 ## Bibliografia
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux)
-<p></p>
-ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.<br>
+>Rogers, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
 
 ## Versionamento
 Versão|Data      |Modificação        |Autor

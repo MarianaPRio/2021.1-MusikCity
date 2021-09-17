@@ -141,10 +141,12 @@ O método foi utilizado para os objetivos do usuário que diferem dos objetivos 
 			- (SEL. RULE: O usuário não necessariamente percorreu a lista, mas encontrou uma musica do seu agrado, deve então clicar na aba vídeo).
 		- METHOD 3.C: Clicar no player para iniciar a musica que irá abrir na próxima página.
 			- (SEL. RULE: Será apresentado ao usuário o vídeo clipe da respectiva música em uma página separada).
-## 4. Bibliografia
-> - BARBOSA, Simone et al. "Interação Humano-Computador". 2010.
 
-## 5. Versionamento
+## 3. Bibliografia
+
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+## 4. Versionamento
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |29/08/2021|Criação da pagina  | Pedro Henrique

@@ -80,10 +80,12 @@ Informações desnecessárias para o usuário na tarefa em que ele estará reali
 Quando um erro ocorrer, o site fará com que o usuário volte para onde estava no sistema, ou no pior dos casos, voltar para a página inicial.
 </p>
 
+## 3. Bibliografia 
+
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 
-
-## 7. Versionamento
+## 4. Versionamento
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |06/09/2021|Criação da pagina  | Artur de Sousa

@@ -6,7 +6,7 @@ Uma persona é um personagem fictício que representa um arquétipo de um grupo 
 </p>
 
 <p style="text-align: justify">
-Todas as fotos das personas foram tiradas do site <i> This Person Does Not Exist<i\>.
+Todas as fotos das personas foram tiradas do site <i> This Person Does Not Exist</i>.
 </p>
 
 ## Personas do Musikcity
@@ -58,8 +58,11 @@ A próxima persona representa uma anti-persona, isto é, uma pessoa que está co
 *Figura 4 -  Anti-persona, Autoria própria*
 </p>
 
+## Bibliografia 
 
-## 7. Versionamento
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+## Versionamento
 Versão|Data      |Modificação          |Autor
 ------|----------|---------------------|--------
 1.0   |29/08/2021|Criação da wiki      | Eduarda Tavares

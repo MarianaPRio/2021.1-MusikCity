@@ -28,9 +28,9 @@ Link para o formulário: [https://forms.gle/xSc9YiDBVZMhQMwc9](https://forms.gle
 
 ## Bibliografia 
 
-<p style="text-align: justify">
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux)
-</p>
+## 6. Bibliografia 
+
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
 Versão|Data      |Modificação        |Autor
