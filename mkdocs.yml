@@ -24,11 +24,17 @@ nav:
     - Guia de Estilo: guiaDeEstilo.md 
     - Metas de Usabilidade: usabilidade.md
     - Principios Gerais do Projeto: principios.md
-  - Storyboard:
-    - Storyboard: storyboard.md
-    - Planejamento Avaliação: planejamentoSt.md
-  - Protótipo de Papel:
-    - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nivel 1:
+      - Storyboards:
+        - Storyboard: storyboard.md
+        - Planejamento Avaliação: planejamentoSt.md
+      - Analise de Tarefas:
+        - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
+        - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
+    - Nivel 2:
+      - Protótipo de Papel:
+        - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
   - Apresentação:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
