@@ -41,7 +41,6 @@ Relato dos resultados            |<li> Gerar um relatório com os problemas enco
  - Preencher formulário de Divulgação.
  - Abrir a pagina de rádio "Lorem FM".
  - Abrir parada musical "Brasil".
- - Abrir página "sobre nós".
 
 <p style="text-align: justify">Elas foram escolhidas principalmente pelo fato de serem as mesmas tarefas que são realizadas pelas personas, sendo elas as tarefas principais do site.</p>
 
@@ -68,7 +67,7 @@ Relato dos resultados            |<li> Gerar um relatório com os problemas enco
 
 Número | Pergunta  | <div style="width:125px">resposta</div>
 :-------:|-----------|:---------
-1      |<p style="text-align: justify"> Em uma escala de 1 a 5, quanto você daria para a sua familiaridade com o site  Musikcity, sendo "1" igual a extremamente desabituado e "5" extremamente familiarizado?</p> | 1. Muito desabituado <br>2. Desabituado <br>3. Neutro <br>4. Familiarizado <br>5. Muito familiarizado
+1      |<p style="text-align: justify"> Em uma escala de 1 a 5, quanto você daria para a sua familiaridade com o site  Musikcity, sendo "1" igual a muito desabituado e "5" muito familiarizado?</p> | 1. Muito desabituado <br>2. Desabituado <br>3. Neutro <br>4. Familiarizado <br>5. Muito familiarizado
 
 <p style="text-align: center;"><i>Tabela 2: Pergunta inicial a ser feita ao voluntário.</i></p>
 
