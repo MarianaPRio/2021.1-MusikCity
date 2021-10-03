@@ -8,7 +8,3 @@
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |03/10/2021|Criação da pagina  |Mariana Rio
-
-Pergunta|Resposta      
---------|----------
-1.      |

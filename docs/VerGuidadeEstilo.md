@@ -1,4 +1,4 @@
-# Verificação da Avaliação das Análises de Tarefas
+# Verificação do Guia de Estilo
 
 ## 1. Introdução
 <p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.
@@ -8,9 +8,10 @@
 
 1. Há erros de ortografia ou formatação?
 2. Existe uma introdução ao conceito abordado?
-3. O documento segue o padrão estabelecido pelo grupo?
-4. O documento segue o padrão correspondente à análise abordada?
-5. As imagens possuem legenda?
+3. As decisões de design estão listadas corretamente?
+4. Falta alguma decisão de design?
+5. O documento segue o padrão estabelecido pelo grupo?
+6. As imagens possuem legenda?
 
 ## 3. Respostas
 
@@ -23,7 +24,7 @@ Pergunta|Resposta
 5       |Sim
 
 ## 4. Conclusão
-<p style="text-align: justify">A verificação mostrou que a documentação da Análise de Tarefas estava fora do padrão do documento e contendo pequenos erros de português com necessidade de revisão e correção.
+<p style="text-align: justify">A verificação mostrou que a documentação do Guia de Estilo estava fora do padrão do documento e contendo pequenos erros de português com necessidade de revisão e correção.
 </p>
 
 ## 5. Versionamento

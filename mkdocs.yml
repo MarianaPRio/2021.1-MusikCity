@@ -15,14 +15,12 @@ extra_css:
 
 nav:
   - Inicio: index.md
-  - Planejamento: planejamento.md
-  - Perfil de usuario:
-      - Perfil de usuario: perfil.md
-      - Personas: personas.md
+  - Planejamento: planejamento.md      
   - Análise de Requisitos:
       - Analise de Tarefas: analise.md
       - Guia de Estilo: guiaDeEstilo.md
       - Metas de Usabilidade: usabilidade.md
+      - Perfil de usuario: personas.md
       - Principios Gerais do Projeto: principios.md
   - Design, Avaliação e Desenvolvimento:
       - Nivel 1:
@@ -41,6 +39,7 @@ nav:
               - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
   - Verificação dos Artefatos:
       - Análise de Requisitos: VerAnaliseReq.md
+      - Guia de Estilo: VerGuidadeEstilo.md
   - Apresentação:
       - Apresentação 1: apresentacao1.md
       - Apresentação 2: apresentacao2.md
