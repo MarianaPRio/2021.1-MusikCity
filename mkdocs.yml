@@ -38,15 +38,20 @@ nav:
           - Prototipo de Alta Fidelidade:
               - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
   - Verificação dos Artefatos:
-      - Análise de Requisitos: VerAnaliseReq.md
-      - Guia de Estilo: VerGuidadeEstilo.md
-      - Metas de usabilidade: VerMetas.md
-      - Perfil do Usuário: VerPerfil.md
-      - Princípios Gerais do Projeto: VerPrincipios.md
-      - Storyboards: VerStoryboards.md
-      - Planejamento Avaliação: VerPlanStory.md
-      - Análise de Tarefas: VerAnaliseT.md
-      - Protótipo de Papel: VerePrototipoPapel.md
+      - Análise de Requisitos:
+        - Análises de Tarefas: VerAnaliseReq.md
+        - Guia de Estilo: VerGuidadeEstilo.md
+        - Metas de usabilidade: VerMetas.md
+        - Perfil do Usuário: VerPerfil.md
+        - Princípios Gerais do Projeto: VerPrincipios.md
+      - Design, Avaliação e Desenvolvimento:  
+        - Nivel 1:
+            - Storyboards: 
+                - Storyboards: VerStoryboards.md
+                - Planejamento Avaliação: VerPlanStory.md
+            - Análise de Tarefas: VerAnaliseT.md
+        - Nivel 2:
+            - Protótipo de Papel: VerePrototipoPapel.md
   - Apresentação:
       - Apresentação 1: apresentacao1.md
       - Apresentação 2: apresentacao2.md

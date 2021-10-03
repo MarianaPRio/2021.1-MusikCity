@@ -1,4 +1,4 @@
-# Verificação da Avaliação das Análises de Tarefas
+# Avaliação das Análises de Tarefas
 
 ## 1. Introdução
 <p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.
