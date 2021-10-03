@@ -1,4 +1,4 @@
-# Verificação das Metas de Usabilidade
+# Metas de Usabilidade
 
 ## 1. Introdução
 <p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.

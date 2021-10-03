@@ -1,4 +1,4 @@
-# Planejamento e Avaliação do Protótipo de Papel
+# Avaliação do Protótipo de Papel
 
 ## 1. Introdução
 <p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.</p>
@@ -10,7 +10,6 @@
 3. Os objetivos da avaliação estão bem definidos?
 4. O relato dos resultados da avaliação condiz com a realidade?
 5. O protótipo de papel condiz com a realidade do site?
-6. do Protótipo de Papel possui poucos erros ortográficos fugindo um pouco do padrão de documentação estabelecido pelo grupo.
 
 
 ## 3. Respostas
@@ -22,7 +21,6 @@ Pergunta|Resposta
 3       |Sim
 4       |Sim
 5       |Sim
-6       |Não
 
 ## 4. Conclusão
 <p style="text-align: justify">A verificação mostrou que a documentação do Protótipo de Papel possui poucos erros ortográficos fugindo um pouco do padrão de documentação estabelecido pelo grupo.
