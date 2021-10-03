@@ -19,10 +19,10 @@ Pergunta|Resposta
 1       |Não
 2       |Sim
 3       |Sim
-4       |Sim
+4       |Não
 
 ## 4. Conclusão
-<p style="text-align: justify">A verificação mostrou que a documentação das Metas de Usabilidade foi apresentado de forma satisfatória, não necessitando alterações
+<p style="text-align: justify">A verificação mostrou que a documentação das Metas de Usabilidade foi apresentado de forma satisfatória, nessecitando apenas de formatação no texto.
 </p>
 
 ## 5. Versionamento
