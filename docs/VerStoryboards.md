@@ -1,4 +1,4 @@
-# Verificação das Metas de Usabilidade
+# StoryBoards
 
 ## 1. Introdução
 <p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.</p>
@@ -7,21 +7,23 @@
 
 1. Há erros de ortografia ou formatação?
 2. Existe uma introdução ao conceito abordado?
-3. A descrição dos princípios e diretrizes estão de acordo com o domínio da aplicação?
+3. A situação descrita no storyboard condiz com a realidade?
 4. O documento segue o padrão estabelecido pelo grupo?
+5. As imagens possuem legenda?
 
 
 ## 3. Respostas
 
 Pergunta|Resposta      
 --------|----------
-1       |Não
+1       |Sim
 2       |Sim
 3       |Sim
 4       |Sim
+5       |Sim
 
 ## 4. Conclusão
-<p style="text-align: justify">A verificação mostrou que a documentação dos princípios gerais do projeto foi apresentado de forma satisfatória, não nessecitando de alteração.
+<p style="text-align: justify">A verificação mostrou que a documentação dos Storyboards foi apresentado de forma satisfatória, necessitando apenas alterações na ortografia.
 </p>
 
 ## 5. Versionamento
