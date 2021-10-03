@@ -38,6 +38,7 @@ nav:
           - Prototipo de Alta Fidelidade:
               - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
   - Verificação dos Artefatos:
+      - Verificação: Verificacoes.md
       - Análise de Requisitos:
         - Análises de Tarefas: VerAnaliseReq.md
         - Guia de Estilo: VerGuidadeEstilo.md
