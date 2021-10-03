@@ -105,5 +105,7 @@ Número | Pergunta  | <div style="width:100px">resposta</div>
 -------|----------|-------------------|--------
 1.0    |16/09/2021|Criação da página  | Artur de Sousa
 1.1    |16/09/2021|Adição do conteúdo | Artur de Sousa
+1.2   |03/10/2021|Verificação        |Mariana Rio
+
 
 

@@ -70,14 +70,17 @@ Assim se encerraram as duas entrevistas, e como resultado percebemos que diferen
 Sabendo que os entrevistados seriam potenciais usuários do site, a confiança sobre o resultado pode ser considerada grande e os apontamentos feitos são de grande valia para as próximas etapas da realização do nosso projeto. 
 </p>
 
-## 7. Versionamento
+## 7. Bibliografia 
+  >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+## 8. Versionamento
 
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |22/09/2021|Criação da pagina  | Pedro Henrique
 1.1   |22/09/2021|Adição do conteúdo | Pedro Henrique
+1.2   |03/10/2021|Verificação        |Mariana Rio
 
-## 8. Bibliografia 
-  >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
 
 

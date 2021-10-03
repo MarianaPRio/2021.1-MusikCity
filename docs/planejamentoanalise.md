@@ -109,13 +109,17 @@ Número  | Pergunta  | <div style="width:100px">resposta</div>
 Após a execução do formulário o avaliador deve se despedir e agradecer pela participação, encerrando assim a entrevista.
 </p>
 
-## 7. Versionamento
+
+## 7. Bibliografia 
+  >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+## 8. Versionamento
 
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |20/09/2021|Criação da pagina  | Pedro Henrique
 1.1   |20/09/2021|Adição do conteúdo | Pedro Henrique
+1.2   |03/10/2021|Verificação        |Mariana Rio
 
-## 8. Bibliografia 
-  >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
 

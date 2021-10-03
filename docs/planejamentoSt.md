@@ -38,3 +38,5 @@ Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|--------
 1.0   |16/09/2021|Adição do conteúdo |Mariana Rio
 1.1   |25/09/2021|Adição do conteúdo |Mariana Rio
+1.2   |03/10/2021|Verificação        |Mariana Rio
+

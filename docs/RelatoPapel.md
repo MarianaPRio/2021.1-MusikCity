@@ -106,5 +106,7 @@ Versão|Data      |Modificação        |Autor
 -------|----------|-------------------|--------
 1.0    |28/09/2021|Criação da página  | Artur de Sousa
 1.1    |28/09/2021|Adição do conteúdo | Artur de Sousa
+1.2   |03/10/2021|Verificação        |Mariana Rio
+
 
 

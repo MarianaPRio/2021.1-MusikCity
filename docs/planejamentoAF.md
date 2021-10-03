@@ -145,3 +145,5 @@ Por fim, será relatado tudo que resultar da análise na WIKI. Comunicaremos os 
 -------|----------|-------------------|--------
 1.0    |03/10/2021|Criação da página  | Pedro
 1.1    |03/10/2021|Adição do conteúdo | Pedro
+1.2   |03/10/2021|Verificação        |Mariana Rio
+

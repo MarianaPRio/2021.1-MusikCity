@@ -90,3 +90,4 @@ Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|---------------
 1.0   |06/09/2021|Criação da pagina  | Artur de Sousa
 1.1   |06/09/2021|Adição do conteúdo | Artur de Sousa
+1.2   |03/10/2021|Verificação        |Mariana Rio
