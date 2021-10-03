@@ -11,6 +11,7 @@ A metodologia que será a de investigacao através de um formulário, que seram 
 ## Avaliação
 <p style="text-align: justify">
 A avaliação contem uma série de perguntas para identificar se o storyboard esta condizente com a realidade do usuário.
+Cada storyboard possuem as 3 perguntas sendo feitas separadas de modo a ter respostas diferentes para cada contexto do storyboard.
 </p>
 
 ## Formulário
@@ -36,3 +37,4 @@ Link para o formulário: [https://forms.gle/xSc9YiDBVZMhQMwc9](https://forms.gle
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|--------
 1.0   |16/09/2021|Adição do conteúdo |Mariana Rio
+1.1   |25/09/2021|Adição do conteúdo |Mariana Rio
