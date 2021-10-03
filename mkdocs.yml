@@ -16,7 +16,6 @@ extra_css:
 nav:
   - Inicio: index.md
   - Planejamento: planejamento.md
-<<<<<<< HEAD
   - Perfil de usuario:
       - Perfil de usuario: perfil.md
       - Personas: personas.md
@@ -40,29 +39,26 @@ nav:
       - Nivel 3:
           - Prototipo de Alta Fidelidade:
               - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
-=======
   - Análise de Requisitos:
-    - Analise de Tarefas: analise.md
-    - Guia de Estilo: guiaDeEstilo.md 
-    - Metas de Usabilidade: usabilidade.md
-    - Perfil de Usuario: personas.md
-    - Principios Gerais do Projeto: principios.md
+      - Analise de Tarefas: analise.md
+      - Guia de Estilo: guiaDeEstilo.md
+      - Metas de Usabilidade: usabilidade.md
+      - Perfil de Usuario: personas.md
+      - Principios Gerais do Projeto: principios.md
   - Design, Avaliação e Desenvolvimento:
-    - Nivel 1:
-      - Storyboards:
-        - Storyboard: storyboard.md
-        - Planejamento Avaliação: planejamentoSt.md
-      - Analise de Tarefas:
-        - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
-        - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
-    - Nivel 2:
-      - Protótipo de Papel:
-        - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
-        - Relato da Avaliação do Protótipo de Papel: RelatoPapel.md
+      - Nivel 1:
+          - Storyboards:
+              - Storyboard: storyboard.md
+              - Planejamento Avaliação: planejamentoSt.md
+          - Analise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
+              - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
+      - Nivel 2:
+          - Protótipo de Papel:
+              - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
+              - Relato da Avaliação do Protótipo de Papel: RelatoPapel.md
   - Verificação dos Artefatos:
-    - Análise de Requisitos: VerAnaliseReq.md
-    
->>>>>>> 87672beb24754c18f2114525715b054b51bb7e9a
+      - Análise de Requisitos: VerAnaliseReq.md
   - Apresentação:
       - Apresentação 1: apresentacao1.md
       - Apresentação 2: apresentacao2.md
