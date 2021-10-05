@@ -90,7 +90,7 @@ Para que a avaliação possa prosseguir, o voluntário deverá concordar com o t
 
 <p style="text-align: justify">A partir das tarefas definidas como foco do trabalho, o seguinte protótipo de papel foi desenvolvido, para analizar a usabilidade da nossa solução para o site "Musikcity": </p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/Yiq0sDHuxau5mnWnRlAEaR/Prot%C3%B3tipo-de-alta-fidelidade?node-id=1%3A2&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYiq0sDHuxau5mnWnRlAEaR%2FProt%C3%B3tipo-de-alta-fidelidade%3Fnode-id%3D1%253A2%26scaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2" allowfullscreen></iframe>
 
 ## 7. Coleta de dados e interpretação
 
