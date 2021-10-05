@@ -86,7 +86,7 @@ Para que a avaliação possa prosseguir, o voluntário deverá concordar com o t
 
 <p style="text-align: justify">Antes do teste ser passado para os usuários escolhidos para a avaliação, um outro membro do grupo será escolhido para fazer a avaliação, com o objetivo de analizar se o teste desenvolvido atende as necessidades do grupo, respondendo as perguntas que definimos</p>
 
-### 6.4 protótipo de papel
+### 6.4 protótipo de Alta Fidelidade
 
 <p style="text-align: justify">A partir das tarefas definidas como foco do trabalho, o seguinte protótipo de papel foi desenvolvido, para analizar a usabilidade da nossa solução para o site "Musikcity": </p>
 
@@ -146,4 +146,4 @@ Por fim, será relatado tudo que resultar da análise na WIKI. Comunicaremos os 
 1.0    |03/10/2021|Criação da página  | Pedro
 1.1    |03/10/2021|Adição do conteúdo | Pedro
 1.2   |03/10/2021|Verificação        |Mariana Rio
-
+1.3    |05/10/2021|Correção de escrita|Pedro
