@@ -152,3 +152,4 @@ Versão|Data      |Modificação        |Autor
 1.0   |29/08/2021|Criação da pagina  | Pedro Henrique
 1.1   |30/08/2021|Adição do conteúdo | Pedro Henrique
 1.2   |07/09/2021|Atualização com metodo GOMS| Pedro Henrique
+1.3   |03/10/2021|Verificação        |Mariana Rio

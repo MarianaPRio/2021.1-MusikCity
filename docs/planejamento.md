@@ -77,4 +77,6 @@ Versão|Data      |Modificação        |Autor
 1.0   |16/08/2021|Criação da wiki    | Eduarda Tavares
 1.1   |17/08/2021|Adição do conteúdo | Mariana Rio e Eduarda Tavares
 1.2   |30/08/2021|Adição do conteúdo | Mariana Rio
+1.3   |03/10/2021|Verificação        |Mariana Rio
+
 
