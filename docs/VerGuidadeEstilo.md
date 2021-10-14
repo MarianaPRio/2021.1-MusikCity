@@ -1,8 +1,11 @@
 # Verificação do Guia de Estilo
 
 ## 1. Introdução
-<p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.
+<p style="text-align: justify">
+Essa verificação tem como objetivo verificar o artefato Guia de Estilo.
 </p>
+
+Link para o artefato: [Guia de Estilo](https://interacao-humano-computador.github.io/2021.1-MusikCity/guiaDeEstilo/)
 
 ## 2. Checklist 
 
