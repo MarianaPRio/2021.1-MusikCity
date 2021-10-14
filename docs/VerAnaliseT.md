@@ -1,7 +1,9 @@
-# Análise de Tarefas
+# a Análise de Tarefas
 
 ## 1. Introdução
-<p style="text-align: justify">A técnica utilizada é a Técnica de Leitura por Check-List.</p>
+<p style="text-align: justify">
+
+</p>
 
 ## 2. Checklist 
 
