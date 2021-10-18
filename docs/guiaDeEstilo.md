@@ -1,45 +1,45 @@
 # Guia de Estilo
 ## Introdução
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 O objetivo demonstrar os elementos de interfaces, servindo de ponto de partida para garantir um serviço digital consistente, independente do seu alcance, número de páginas ou micro serviços. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento.(Barbosa e Silva, 2010).
 </p>
 
-<p style=" text-align: justify">
-Sendo assim, O guia de estilo é uma espécie de registro das principais decisões de design tomadas, de forma que elas não se percam, ou seja, sejam efetivamente incorporadas no produto final. O guia de estilo serve como uma ferramenta de comunicação entre os membros da equipe de design com a de desenvolvimento. As decisões podem ser consultadas em qualquer versão futura do produto.
+<p style="text-indent: 20px; text-align: justify">
+Sendo assim, o guia de estilo é uma espécie de registro das principais decisões de design tomadas, de forma que elas não se percam, ou seja, sejam efetivamente incorporadas no produto final. O guia de estilo serve como uma ferramenta de comunicação entre os membros da equipe de design com a de desenvolvimento. As decisões podem ser consultadas em qualquer versão futura do produto.
 </p>
 
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 De maneira geral, um Guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Para o Guia de estilo do nosso projeto, será utilizada a estrutura de Marcus, 1992; Mayhew, 1999.
 </p>
 
 ## 1.Introdução Guia de Estilo
 
 ### 1.1. Objetivo do guia de estilo
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 O objetivo desse guia de estilo, como dito anteriormente, é servir como um registro das principais decisões de design tomadas durante a realização do projeto, mas especificamente na realização e constituição dos protótipos.
 </p>
 
 ### 1.2. Organização e conteúdo do guia de estilo
 
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 O guia de estilo será organizado conforme a estrutura proposta no livro Interação Humano Computador (BARBOSA, Simone; SILVA, Bruno.) , seguindo a estrutura de Marcus 1992; Mayhew 1999 e terá como conteúdo as principais demandas relacionadas ao design e construção dos nossos protótipos de alta e baixa fidelidade. 
 </p>
 
 ### 1.3. Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte)
 
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 O público alvo do nosso guia de estilo será essencialmente a nossa equipe de trabalho, que está em busca de propor uma remodelagem para um site já existente.
 </p>
 
 ### 1.4. Como utilizar o guia (em produção e manutenção)
 
-<p style=" text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 O guia de estilo será utilizado como um padrão a ser seguido durante a realização e construção dos nossos protótipos, seguindo o design e as informações de estilo que foram preestabelecidas.
 </p>
 
 ### 1.5. Como manter o guia
 
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 Para manter o guia de estilo será realizada uma tarefa de aperfeiçoamento continuo durante toda a realização do projeto, de tal modo que a partir do momento que vermos que alguma parte não está mais coerente dentro do nosso escopo ou que precisa ser feita alguma mudança o guia será atualizado e aperfeiçoado. 
 </p>
 
@@ -47,7 +47,7 @@ Para manter o guia de estilo será realizada uma tarefa de aperfeiçoamento cont
 
 ### 2.1. Descrição do ambiente de trabalho do usuário
 
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 Pelo fato do site possuir várias funcionalidades destinadas a públicos distintos os ambientes de trabalho do usuário podem variar de acordo com o seu objetivo ao utilizar o site. O usuário que está buscando o site para utilizar o recurso de ouvir uma rádio ao-vivo ou para assistir determinado canal de televisão não precisará necessariamente de um ambiente calmo e restrito, ao passo que o usuário que está em busca de algum serviço profissional relacionado ao meio musical necessitará, provavelmente, desse tipo de ambiente.
 </p>
 
@@ -55,7 +55,7 @@ Pelo fato do site possuir várias funcionalidades destinadas a públicos distint
 
 ### 3.1. Disposição espacial e grid
 
-<p style="text-align: justify">
+<p style="text-indent: 20px; text-align: justify">
 Olhando para o site, de uma maneira geral, é perceptível a falta de organização em relação a disposição espacial. É possível perceber que existe uma disposição espacial em relação aos elementos das páginas, mas essa disposição é totalmente desregrada e não é seguido o mesmo padrão em todas as páginas do site. Além disso os anúncios de serviços do próprio site são dispostos de uma maneira que confunde o usuário durante sua navegação.
 </p>
 
