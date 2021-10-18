@@ -73,7 +73,7 @@ Número  | Pergunta  | <div style="width:100px">resposta</div>
 2	|<p style="text-align: justify">Em qual dos perfis de usuário selecionados você se encaixa?</p>|- Profissional da música.<br> - Amante da música.
 3.1	|<p style="text-align: justify">Qual é a sua relação com a música (Caso seja um profissional da música)?</p>|- Resposta discursiva.
 3.2	|<p style="text-align: justify">Já realizou algum tipo de divulgação artística em outro site? (Caso seja um profissional da música)</p>| - Sim.<br>- Não.
-3.3	|<p style="text-align: justify">Você se considera uma pessoa um amante da música, ou seja, que ouve música com bastante frequência? (Caso tenha o perfil de amante da música).</p>| - Sim.<br>- Não.
+3.3	|<p style="text-align: justify">Você se considera um amante da música, ou seja, que ouve música com bastante frequência? (Caso tenha o perfil de amante da música).</p>| - Sim.<br>- Não.
 3.4	|<p style="text-align: justify">Você teria interesse de acessar um site para encontrar e acompanhar a lista da parada de sucesso musical ou para escutar rádios ao-vivo? (Caso tenha o perfil de amante da música).</p>| - Sim.<br>- Não.
 4	|<p style="text-align: justify">Tendo encontrado o site MusikCity, como você faria para acessá-lo?</p>| - Demonstrar.
 5	|<p style="text-align: justify">Estando na página inicial, como você faria para encontrar a funcionalidade de divulgação musical no site MusicCity? (Caso seja um profissional da música)</p>| - Demonstrar.
@@ -102,8 +102,8 @@ Número  | Pergunta  | <div style="width:100px">resposta</div>
 :-------:|-----------|:---------
 9	|<p style="text-align: justify">Você teria interesse em ouvir alguma dessas rádios que são apresentadas na página?</p>| - Sim.<br>- Não.
 10	|<p style="text-align: justify">Você acha que a forma como a lista das rádios está organizada é coerente?</p>| - Sim.<br>- Não.
-11	|<p style="text-align: justify">Pergunta 11: Você acha que a maneira como é apresentada o player da rádio é confortável?</p>| - Sim.<br>- Não.
-12	|<p style="text-align: justify">Você encontrar e dar play em uma rádio? Se sim aponte possíveis sugestões ou melhorias.</p>| - Discursiva.
+11	|<p style="text-align: justify">Você acha que a maneira como é apresentada o player da rádio é confortável?</p>| - Sim.<br>- Não.
+12	|<p style="text-align: justify">Você encontrou algum problema para encontrar determinada rádio e dar play para ouvi-la? Se sim aponte possíveis sugestões ou melhorias.</p>| - Discursiva.
 
 <p style="text-indent: 20px; text-align: justify">
 Após a execução do formulário o avaliador deve se despedir e agradecer pela participação, encerrando assim a entrevista.
