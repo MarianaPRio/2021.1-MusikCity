@@ -34,7 +34,7 @@ O público alvo do nosso guia de estilo será essencialmente a nossa equipe de t
 ### 1.4. Como utilizar o guia (em produção e manutenção)
 
 <p style=" text-align: justify">
-O guia de estilo será utilizado como um padrão a ser seguido durante a realização e construção dos nossos protótipos, seguindo 
+O guia de estilo será utilizado como um padrão a ser seguido durante a realização e construção dos nossos protótipos, seguindo o design e as informações de estilo que foram preestabelecidas.
 </p>
 
 ### 1.5. Como manter o guia
