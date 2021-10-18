@@ -17,8 +17,8 @@ Link para o artefato: [Análise de Tarefas](https://interacao-humano-computador.
 
 ## 3. Respostas
 
-Pergunta|Resposta      
---------|----------
+Pergunta|Resposta   |Verificação 1 |Verificação 2
+--------|-----------|--------------|-----------------
 1       |Sim|Correção de erros ortográficos | Sem alteração
 2       |Sim| Sem alteração | Sem alteração
 3       |Sim| Sem alteração | Sem alteração
