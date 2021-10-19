@@ -30,12 +30,12 @@ Link: [Musik City](https://musikcity.mus.br/)
 
 ## 3. Cronograma de Atividades 
 
-Tarefa      |Participantes |Data de Entrega
---------------  |----------|------
-Perfil do usuário, Personas e Análise de tarefas.|Artur de Sousa e Pedro Hinrique|28 de agosto
-Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.|Eduarda Tavares e Mariana Rio|4 de setembro 
-Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard e Análise de tarefas.Mariana Rio.|Todos|8 de setembro 
-Relato dos resultados do Storyboard, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|Todos|20 de setembro
+Tarefa      |Participantes |Data de entrega planejada | data de entrega feita
+--------------  |----------|------ | -----------------
+Perfil do usuário, Personas e Análise de tarefas.|Artur de Sousa e Pedro Henrique|28 de agosto| 26 de agosto 
+Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.|Eduarda Tavares e Mariana Rio|4 de setembro | 3 de setembro
+Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|Todos|8 de setembro | 7 de setembro
+Relato dos resultados do Storyboard, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|Todos|20 de setembro | 18 de setembro
 
 ## 4. Processo de Design
 
