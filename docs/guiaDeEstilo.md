@@ -1,5 +1,7 @@
 # Guia de Estilo
+
 ## Introdução
+
 <p style="text-indent: 20px; text-align: justify">
 O objetivo demonstrar os elementos de interfaces, servindo de ponto de partida para garantir um serviço digital consistente, independente do seu alcance, número de páginas ou micro serviços. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento.(Barbosa e Silva, 2010).
 </p>
@@ -15,6 +17,7 @@ De maneira geral, um Guia de estilo deve incorporar decisões de design envolven
 ## 1.Introdução Guia de Estilo
 
 ### 1.1. Objetivo do guia de estilo
+
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desse guia de estilo, como dito anteriormente, é servir como um registro das principais decisões de design tomadas durante a realização do projeto, mas especificamente na realização e constituição dos protótipos.
 </p>
@@ -60,28 +63,23 @@ Olhando para o site, de uma maneira geral, é perceptível a falta de organizaç
 </p>
 
 ![](img/PrintSite1.png)
-<p style="text-align: justify">
-Figura 1-Foto destacando a falta de organização 
-</p>
+<figcaption>Figura 1-Foto destacando a falta de organização </figcaption>
 
 ![](img/PrintSite2.png)
-<p style="text-align: justify">
-Figura 2-Foto mostrando como a disposição espacial não é seguida em todas as páginas.
-</p>
+
+<figcaption>Figura 2-Foto mostrando como a disposição espacial não é seguida em todas as páginas.</figcaption>
 
 ![](img/PrintSite3.png)
-<p style="text-align: justify">
-Figura 3-Disposição espacial desregulada.
-</p>
+
+<figcaption>Figura 3-Disposição espacial desregulada.</figcaption>
 
 <p style="text-indent: 20px; text-align: justify">
 Com base nisso, foi construída uma disposição de layout e grid que poderia ser aplicada ao site:
 </p>
 
 ![](img/PrintSite4.png)
-<p style="text-align: justify">
-Figura 4-Disposição espacial desregulada.
-</p>
+
+<figcaption>Figura 4-Disposição espacial desregulada.</figcaption>
 
 ### 3.2. Janelas
 
@@ -94,6 +92,7 @@ O site possui algumas janelas informativas. Essas janelas indicam ao usuário po
 <p style="text-indent: 20px; text-align: justify">
 
 A Fonte escolhida foi a Montserrat, que é a família de fonte usada em conteúdos de todo o site.
+
 </p>
 <p></p>
 ![](img/TipografiaFonte.png)
@@ -108,9 +107,8 @@ O site não possui símbolos não tipográficos, mas ao analisarmos o design do 
 </p>
 
 ![](img/IconeSite.png)
-<p style="text-align: justify">
-Figura 6- Icone do site para voltar a página inicial.
-</p>
+
+<figcaption>Figura 6- Icone do site para voltar a página inicial.</figcaption>
 
 ### 3.5. Cores
 
@@ -118,14 +116,15 @@ Figura 6- Icone do site para voltar a página inicial.
 As cores do site serão as descritas abaixo, essas cores deverão ser utilizadas no site para que dessa forma seja mantida a sua consistência.
 </p>
 
-Hexadecimal|Uso       
------------|----------
-#520e58    |Navbar, menus e botoes de destaque
-#77457c    |Ícones 
-#a7a1a8    |Detalhes diversos
-#000000    |Fontes
+| Hexadecimal | Uso                                |
+| ----------- | ---------------------------------- |
+| #520e58     | Navbar, menus e botoes de destaque |
+| #77457c     | Ícones                             |
+| #a7a1a8     | Detalhes diversos                  |
+| #000000     | Fontes                             |
 
 ![](img/CoresMusikcity.png)
+
 <p style="text-align: justify">
 Figura 7 - Cores
 </p>
@@ -153,9 +152,8 @@ O site possui vários tipo de formulários com objetivos diferentes, seja divulg
 </p>
 
 ![](img/ImagemFormulario.png)
-<p style="text-align: justify">
-Figura 8 - Imagem de exemplo de formulário.
-</p>
+
+<figcaption>Figura 8 - Imagem de exemplo de formulário.</figcaption>
 
 ### 5.2. Seleção
 
@@ -168,14 +166,12 @@ Além disso é possível encontrar elementos de seleção na funcionalidade para
 </p>
 
 ![](img/ImagemSelecao.png)
-<p style="text-align: justify">
-Figura 9 - Imagem de exemplo de seleção de pagamento.
-</p>
+
+<figcaption>Figura 9 - Imagem de exemplo de seleção de pagamento.</figcaption>
 
 ![](img/ImagemSelecaoRadio.png)
-<p style="text-align: justify">
-Figura 10 - Imagem de exemplo de seleção de rádio.
-</p>
+
+<figcaption>Figura 10 - Imagem de exemplo de seleção de rádio.</figcaption>
 
 ### 5.3. Ativação
 
@@ -197,13 +193,14 @@ O vocabulário do site é destinado ao público ao qual a funcionalidade especí
 Da meneira como o site foi construído não é possível perceber um padrão de telas. O fundo utilizado em uma tela não é o mesmo fundo utilizado em outras telas. O menú encontrado na maioria das telas não aperece em todas as telas. É altamente recomendado que haja um padrão de telas para não atrapalhar a experiência do usuário e por isso, para o protótipo de alta fidelidade as telas deverão ser reconstruídas com base em um padrão estipulado inicialmente, utilizando-se um padrão de fundo para todas as telas, assim como a disposição do menú e outros elementos da tela.
 </p>
 
-## 7. Bibliografia 
+## 7. Bibliografia
 
->Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## 8. Versionamento
-Versão|Data      |Modificação        |Autor
-------|----------|-------------------|--------
-1.0   |16/09/2021|Adição do conteúdo |Mariana Rio
-1.1   |03/10/2021|Verificação        |Mariana Rio
-1.2   |12/10/2021|Refatoração do conteúdo + adição de tópicos que estavam faltando|Pedro Henrique	 
+
+| Versão | Data       | Modificação                                                      | Autor          |
+| ------ | ---------- | ---------------------------------------------------------------- | -------------- |
+| 1.0    | 16/09/2021 | Adição do conteúdo                                               | Mariana Rio    |
+| 1.1    | 03/10/2021 | Verificação                                                      | Mariana Rio    |
+| 1.2    | 12/10/2021 | Refatoração do conteúdo + adição de tópicos que estavam faltando | Pedro Henrique |
