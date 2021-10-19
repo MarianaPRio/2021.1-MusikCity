@@ -23,7 +23,7 @@ nav:
       - Perfil de usuario: personas.md
       - Principios Gerais do Projeto: principios.md
   - Design, Avaliação e Desenvolvimento:
-      - Nivel 1:
+       - Nivel 1:
           - Storyboards:
               - Storyboard: storyboard.md
               - Planejamento Avaliação: planejamentoSt.md
@@ -38,6 +38,7 @@ nav:
       - Nivel 3:
           - Prototipo de Alta Fidelidade:
               - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
+              - Relato da Avaliação do Protótipo de alta fidelidade: RelatoAF.md
   - Verificação dos Artefatos:
       - Verificação: Verificacoes.md
       - Análise de Requisitos:
