@@ -62,20 +62,16 @@ Pelo fato do site possuir várias funcionalidades destinadas a públicos distint
 Olhando para o site, de uma maneira geral, é perceptível a falta de organização em relação a disposição espacial. É possível perceber que existe uma disposição espacial em relação aos elementos das páginas, mas essa disposição é totalmente desregrada e não é seguido o mesmo padrão em todas as páginas do site. Além disso os anúncios de serviços do próprio site são dispostos de uma maneira que confunde o usuário durante sua navegação.
 </p>
 
-<img width="450x"  src="./img/PrintSite1.png" alt="organização">
+![](img/PrintSite1.png)
 <figcaption>Figura 1-Foto destacando a falta de organização </figcaption>
 
 ![](img/PrintSite2.png)
 
-<p style="text-align: justify">
-Figura 2-Foto mostrando como a disposição espacial não é seguida em todas as páginas.
-</p>
+<figcaption>Figura 2-Foto mostrando como a disposição espacial não é seguida em todas as páginas.</figcaption>
 
 ![](img/PrintSite3.png)
 
-<p style="text-align: justify">
-Figura 3-Disposição espacial desregulada.
-</p>
+<figcaption>Figura 3-Disposição espacial desregulada.</figcaption>
 
 <p style="text-indent: 20px; text-align: justify">
 Com base nisso, foi construída uma disposição de layout e grid que poderia ser aplicada ao site:
@@ -83,9 +79,7 @@ Com base nisso, foi construída uma disposição de layout e grid que poderia se
 
 ![](img/PrintSite4.png)
 
-<p style="text-align: justify">
-Figura 4-Disposição espacial desregulada.
-</p>
+<figcaption>Figura 4-Disposição espacial desregulada.</figcaption>
 
 ### 3.2. Janelas
 
@@ -114,9 +108,7 @@ O site não possui símbolos não tipográficos, mas ao analisarmos o design do 
 
 ![](img/IconeSite.png)
 
-<p style="text-align: justify">
-Figura 6- Icone do site para voltar a página inicial.
-</p>
+<figcaption>Figura 6- Icone do site para voltar a página inicial.</figcaption>
 
 ### 3.5. Cores
 
@@ -161,9 +153,7 @@ O site possui vários tipo de formulários com objetivos diferentes, seja divulg
 
 ![](img/ImagemFormulario.png)
 
-<p style="text-align: justify">
-Figura 8 - Imagem de exemplo de formulário.
-</p>
+<figcaption>Figura 8 - Imagem de exemplo de formulário.</figcaption>
 
 ### 5.2. Seleção
 
@@ -177,15 +167,11 @@ Além disso é possível encontrar elementos de seleção na funcionalidade para
 
 ![](img/ImagemSelecao.png)
 
-<p style="text-align: justify">
-Figura 9 - Imagem de exemplo de seleção de pagamento.
-</p>
+<figcaption>Figura 9 - Imagem de exemplo de seleção de pagamento.</figcaption>
 
 ![](img/ImagemSelecaoRadio.png)
 
-<p style="text-align: justify">
-Figura 10 - Imagem de exemplo de seleção de rádio.
-</p>
+<figcaption>Figura 10 - Imagem de exemplo de seleção de rádio.</figcaption>
 
 ### 5.3. Ativação
 
