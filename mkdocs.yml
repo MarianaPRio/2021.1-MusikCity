@@ -26,8 +26,8 @@ nav:
       - Nivel 1:
           - Storyboards:
               - Storyboard: storyboard.md
-	            - Planejamento Avaliação: planejamentoSt.md
-	            - Resultados Storyboard: resultadosSB.md
+	      - Planejamento Avaliação: planejamentoSt.md
+	      - Resultados Storyboard: resultadosSB.md
           - Analise de Tarefas:
               - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
               - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
