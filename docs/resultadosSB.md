@@ -13,6 +13,7 @@ A primeira pergunta foi relacionada a utilização do site MusikCity e como resp
 </p>
 
 ![](img/imagem1ResultadosStoryboard.png)
+
 *Figura 1 -  Resultados obtidos com relação a utilização do site.*
 
 <p style="text-align: justify">
@@ -20,6 +21,7 @@ A segunda pergunta foi direcionada especificamente para o nosso storyboard relac
 </p>
 
 ![](img/Imagem2ResultadosStoryBoard.png)
+
 *Figura 2 -  Resultados obtidos com relação ao objetivo de divulgação musical.*
 
 <p style="text-align: justify">
@@ -27,6 +29,7 @@ O mesmo foi feito para o storyboard com o objetivo de encontrar novas músicas a
 </p>
 
 ![](img/Imagem3ResultadosStoryBoard.png)
+
 *Figura 3 -  Resultados obtidos com relação ao objetivo de encontrar novas músicas através de alguma rádio.*
 
 <p style="text-align: justify">
@@ -34,6 +37,7 @@ E por fim o mesmo foi feito com o nosso último storyboard que tem como objetivo
 </p>
 
 ![](img/Imagem4ResultadosStoryBoard.png)
+
 *Figura 4 -  Resultados obtidos com relação ao objetivo de descobrir músicas mais tocadas pelo Brasil.*
 
 ## 3. Considerações Finais
