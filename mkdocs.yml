@@ -26,8 +26,8 @@ nav:
       - Nivel 1:
           - Storyboards:
               - Storyboard: storyboard.md
-	  - Planejamento Avaliação: planejamentoSt.md
-	  - Resultados Storyboard: resultadosSB.md
+              - Planejamento Avaliação: planejamentoSt.md
+              - Resultados StoryBoard: resultadosSB.md
           - Analise de Tarefas:
               - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
               - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
@@ -38,7 +38,6 @@ nav:
       - Nivel 3:
           - Prototipo de Alta Fidelidade:
               - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
-              - Relato da Avaliação do Protótipo de alta fidelidade: RelatoAF.md
   - Verificação dos Artefatos:
       - Verificação: Verificacoes.md
       - Análise de Requisitos:
