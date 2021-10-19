@@ -62,7 +62,7 @@ Pelo fato do site possuir várias funcionalidades destinadas a públicos distint
 Olhando para o site, de uma maneira geral, é perceptível a falta de organização em relação a disposição espacial. É possível perceber que existe uma disposição espacial em relação aos elementos das páginas, mas essa disposição é totalmente desregrada e não é seguido o mesmo padrão em todas as páginas do site. Além disso os anúncios de serviços do próprio site são dispostos de uma maneira que confunde o usuário durante sua navegação.
 </p>
 
-<img width="450x"  src="../img/PrintSite1.png" alt="disponibildiade">
+<img width="450x"  src="./img/PrintSite1.png" alt="organização">
 <figcaption>Figura 1-Foto destacando a falta de organização </figcaption>
 
 ![](img/PrintSite2.png)
