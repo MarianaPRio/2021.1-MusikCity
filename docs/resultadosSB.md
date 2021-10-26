@@ -1,4 +1,4 @@
-# Protótipo de Papel
+# Resultados do StoryBoard
 
 ## 1. Introdução
 
