@@ -64,5 +64,3 @@ Versão|Data      |Modificação        |Autor
 1.0   |30/09/2021|Criação da pagina  | Pedro Henrique
 1.1   |16/10/2021|Adição do conteúdo | Pedro Henrique
 1.2   |18/10/2021|Refatoração dos resultados|Pedro Henrique
-
-
