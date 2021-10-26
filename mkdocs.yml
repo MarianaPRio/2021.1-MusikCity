@@ -3,62 +3,67 @@ repo_url: https://github.com/Interacao-Humano-Computador/2021.1-MusikCity
 repo_name: ''
 
 theme:
-  name: material
-  language: 'pt'
-  logo: ''
-  favicon: ''
-  icon:
+    name: material
+    language: 'pt'
+    logo: ''
+    favicon: ''
+    icon:
     repo: fontawesome/brands/github
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 
 nav:
-  - Inicio: index.md
-  - Planejamento: planejamento.md      
-  - Análise de Requisitos:
-      - Analise de Tarefas: analise.md
-      - Guia de Estilo: guiaDeEstilo.md
-      - Metas de Usabilidade: usabilidade.md
-      - Perfil de usuario: personas.md
-      - Principios Gerais do Projeto: principios.md
-  - Design, Avaliação e Desenvolvimento:
-      - Nivel 1:
-          - Storyboards:
-              - Storyboard: storyboard.md
-              - Planejamento Avaliação: planejamentoSt.md
-              - Resultados StoryBoard: resultadosSB.md
-          - Analise de Tarefas:
-              - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
-              - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
-      - Nivel 2:
-          - Protótipo de Papel:
-              - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
-              - Relato da Avaliação do Protótipo de Papel: RelatoPapel.md
-      - Nivel 3:
-          - Prototipo de Alta Fidelidade:
-              - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
-  - Verificação dos Artefatos:
-      - Verificação: Verificacoes.md
-      - Análise de Requisitos:
-        - Análises de Tarefas: VerAnaliseReq.md
-        - Guia de Estilo: VerGuidadeEstilo.md
-        - Metas de usabilidade: VerMetas.md
-        - Perfil do Usuário: VerPerfil.md
-        - Princípios Gerais do Projeto: VerPrincipios.md
-      - Design, Avaliação e Desenvolvimento:  
+    - Inicio: index.md
+    - Planejamento: planejamento.md      
+    - Análise de Requisitos:
+        - Analise de Tarefas: analise.md
+        - Guia de Estilo: guiaDeEstilo.md
+        - Metas de Usabilidade: usabilidade.md
+        - Perfil de usuario: personas.md
+        - Principios Gerais do Projeto: principios.md
+    - Design, Avaliação e Desenvolvimento:
         - Nivel 1:
-            - Storyboards: 
-                - Storyboards: VerStoryboards.md
-                - Planejamento Avaliação: VerPlanStory.md
-            - Análise de Tarefas: VerAnaliseT.md
+            - Storyboards:
+                - Storyboard: storyboard.md
+                - Planejamento Avaliação: planejamentoSt.md
+                - Resultados StoryBoard: resultadosSB.md
+            - Analise de Tarefas:
+                - Planejamento da Avaliação da Análise de Tarefas: planejamentoanalise.md
+                - Resultados da Avaliação da Análise de Tarefas: resultadosanalise.md
         - Nivel 2:
-            - Protótipo de Papel: VerePrototipoPapel.md
-  - Apresentação:
-      - Apresentação 1: apresentacao1.md
-      - Apresentação 2: apresentacao2.md
-      - Apresentação 3: apresentacao3.md
-      - Apresentação 4: apresentacao4.md
+            - Protótipo de Papel:
+                - Planejamento da Avaliação do Protótipo de Papel: planejamentoPapel.md
+                - Relato da Avaliação do Protótipo de Papel: RelatoPapel.md
+        - Nivel 3:
+            - Prototipo de Alta Fidelidade:
+                - Planejamento da Avaliação do Protótipo de Alta fidelidade: planejamentoAF.md
+                - Relato da Avaliação do Protótipo de Alta fidelidade: RelatoAF.md
+    - Verificação dos Artefatos:
+        - Verificação: Verificacoes.md
+        - Análise de Requisitos:
+            - Análises de Tarefas: VerAnaliseReq.md
+            - Guia de Estilo: VerGuidadeEstilo.md
+            - Metas de usabilidade: VerMetas.md
+            - Perfil do Usuário: VerPerfil.md
+            - Princípios Gerais do Projeto: VerPrincipios.md
+        - Design, Avaliação e Desenvolvimento:  
+            - Nivel 1:
+                - Storyboards: 
+                    - Storyboards: VerStoryboards.md
+                    - Planejamento Avaliação: VerPlanStory.md
+                - Análise de Tarefas: VerAnaliseT.md
+            - Nivel 2:
+                - Protótipo de Papel: VerePrototipoPapel.md
+    - Apresentação:
+        - Apresentação 1: apresentacao1.md
+        - Apresentação 2: apresentacao2.md
+        - Apresentação 3: apresentacao3.md
+        - Apresentação 4: apresentacao4.md
+        - Apresentação 5: apresentacao5.md
+        - Apresentação 6: apresentacao6.md
+        - Apresentação Verificação: apresentacaoVerificacao.md
+        - Apresentação Final: apresentacaoFinal.md
 
 plugins:
-  - mkdocs-video
+    - mkdocs-video

@@ -36,9 +36,9 @@
 
 ## 3. Teste-Piloto
 
-<p style="text-align: justify">Antes de realmente ocorrer as entrevistas com os voluntários que representam os perfis de usuário, foi feito um teste piloto, enttre o membro Antur de Sousa como avaliador e o membro Pedro Henrique simulando o voluntário. O teste piloto foi utilizado com o objetivo de testar se o protótipo desenvolvido está de acordo com as necessidades do grupo e também se algum erro maior pede ser captado e melhorado antes da realização das entrevistas em si.</p>
+<p style="text-align: justify">Antes de realmente ocorrer as entrevistas com os voluntários que representam os perfis de usuário, foi feito um teste piloto, entre o membro Artur de Sousa como avaliador e o membro Pedro Henrique simulando o voluntário. O teste piloto foi utilizado com o objetivo de testar se o protótipo desenvolvido está de acordo com as necessidades do grupo e também se algum erro maior pede ser captado e melhorado antes da realização das entrevistas em si.</p>
 
-<p style="text-align: justify">No teste podemos perceber que o protótipo de papel não apresentou nenhum problema, realizapu todas as tarefas propostas de maneira simples e direta, assim foi aprovado para seguir às entrevistas com os voluntários.</p>
+<p style="text-align: justify">No teste podemos perceber que o protótipo de papel não apresentou nenhum problema, realizando todas as tarefas propostas de maneira simples e direta, assim foi aprovado para seguir às entrevistas com os voluntários.</p>
 
 ### 3.1. Vídeo
 
